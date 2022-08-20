@@ -1,0 +1,2 @@
+# numOfGoodPairs
+Created with CodeSandbox
